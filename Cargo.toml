@@ -1,0 +1,5 @@
+[package]
+
+name = "fuzzy"
+version = "0.0.1"
+authors = [ "John David Giese <johndgiese@gmail.com>" ]
